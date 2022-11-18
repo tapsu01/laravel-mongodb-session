@@ -1,5 +1,5 @@
 {
-  "name": "jenssegers/mongodb-session",
+  "name": "tapsu01/laravel-mongodb-session",
   "description": "A MongoDB session driver for Laravel 4, 5, 6, 7, 8 and 9",
   "keywords": [
     "laravel",
@@ -12,6 +12,10 @@
     {
       "name": "Jens Segers",
       "homepage": "http://jenssegers.be"
+    },
+    {
+      "name": "Nguyen Tu",
+      "homepage": "https://github.com/tapsu01"
     }
   ],
   "license": "MIT",
